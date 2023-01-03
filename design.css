@@ -1,0 +1,146 @@
+body{
+     margin: 0; 
+     /* the margin property controls the space outside an element. */
+    padding: 0;
+/* the padding property controls the space inside an element. */
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    /* Task One */
+    .one{
+    background-color: rgb(23, 44, 44);
+     color: white;
+    width: 100%;
+     margin: 10px;
+    height: auto;
+
+    }
+    
+    .one img{
+     width: 70%;
+    height: 400%;
+    object-position: center;
+    }
+    
+   
+    
+    .one h1{
+        text-align: right;
+     margin-top: 4px;
+     margin-bottom: 7px;
+     font-size: 60px;
+    }
+    
+    .one h2{
+        text-align: right;
+     font-size: 45px;
+     font-weight: 10px;
+     margin-bottom: 10px;
+     margin-top: 5px;
+    }
+    
+    .one p{
+        
+     font-size: 38px;
+     text-align: left;
+     margin-top: 20px;
+     margin-bottom: 20px;
+    
+    }
+    
+    
+    
+    /* Task Two */
+    .two{
+      background-color: rgb(98, 141, 98);
+      color:brown(126, 93, 93);
+     width: 200%;
+     margin: 10px;
+     height: auto;
+    }
+    
+    .two h1{
+     font-size: 52px;
+    margin-bottom: 10px;
+     margin-left: 10px;
+     max-width: 40%;
+     text-align: right;
+    }
+    
+    .two p{
+     font-size: 25px;
+     margin-top: 20px;
+    margin-left: 10px;
+     max-width: 30%;
+     text-align:left;
+    }
+    
+    .two img{
+     width:  200%;
+     height:300%;
+     object-position: left;
+     
+    }
+    /* Task three*/
+    .three{
+     background-color: rgb(90, 71, 98);
+    color:brown(126, 93, 93);
+     width: 100%;
+     margin: 10px;
+     height: auto;
+    }
+    
+    .three h1{
+     font-size: 100px;
+    margin-bottom: 5px;
+     margin-top: 5px;
+     
+     text-align: center;
+    }
+    .three  p{
+      font-size: 40px;
+        margin-top: 5px;
+       margin-left: 5px;
+    }
+    
+    
+        
+    
+    
+    .three img{
+     width:70%;
+     height:auto;
+     
+
+    }
+    .four{
+        background-color: rgb(90, 71, 98);
+    color:brown(126, 93, 93);
+     width: 100%;
+     margin: 1px;
+     height: auto;
+    }
+    
+    .four  h1{
+     font-size: 60px;
+    margin-bottom: 3px;
+     margin-top: 3px;
+     
+     text-align: right;
+
+    }
+    .four  li{
+        font-size: 35px;
+       margin-bottom: 2px;
+        margin-top: 2px;
+        
+        text-align: right;
+   
+       }
+       .four img{
+        object-position: center;
+        width:70%;
+        height: 40%;
+       }
+
+     
